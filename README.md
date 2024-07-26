@@ -2,7 +2,7 @@ Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiangriebler/)
 
-
+[![crisFiep GitHub stats](https://github-readme-stats.vercel.app/api?username=crisFiep)](https://github.com/crisFiep/github-readme-stats)
 **crisFiep/crisFiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
