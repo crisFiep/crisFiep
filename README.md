@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ✅
  😱 screaming
 
-[![logo]https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white]
+[![badge]https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white]
